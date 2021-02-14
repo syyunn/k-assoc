@@ -1,5 +1,7 @@
 # k-assoc
 Industry specific Assocs in Korea
 
-# Oil & Chemical 
-https://www.kpia.or.kr/index.php/main
+# List
+한국 
+  - [ ] 석유화학
+  - [ ] 섬유화학 
